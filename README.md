@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started: -->
 I'm Mark a final year engineering student 🔧 who loves to coding 💻, maths 📚, robots 🤖, and space 🚀.
-- 🔭 I’m currently working on: Image Super Resolution Convolutional Neural Network
+- 🔭 I’m currently working on: Image Super Resolution Convolutional Neural Network https://github.com/mark2661/SRCNN
 - 🌱 I’m currently learning: Pytorch, Odin Project
 - 📫 How to reach me: markcartwright65@gmail.com
 
